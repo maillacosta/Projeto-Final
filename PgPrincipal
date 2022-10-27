@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>AP - Confeitaria Funcional </title>
+        <link rel="icon" type="image/x-icon" href="LogoAPconfeitaria.jpeg">
+    </head>
+    <body style="background-color:rgba(252, 241, 248, 0.986);">
+        <h1 style="color:rgb(94, 17, 29); text-align: center; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> 
+            Adriana Pimentel, Confeitaria Funcional!</h1>
+        <p style="text-align:center"><img src="LogoAPconfeitaria.jpeg" alt="logo AP, Confeitaria Funcional" height= "240" width="250;"></p>
+        <p style="text-align:center">
+            <a href="#Nicho">Nosso nicho e produções</a> &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#queridinhos">Favoritos</a> &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#produtos">Cardápio</a> &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#contato">Fale conosco</a> &nbsp;&nbsp;&nbsp;&nbsp;
+           </p>
+        <hr>
+
+        <h2 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" id="Nicho"> 
+            Nosso nicho e produções</h2>
+        <p style="color:rgb(94, 17, 29); text-align:justify; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> 
+            Cansados de presenciar alérgicos, intolerantes e pessoas que buscam uma alimentação mais saudável, insatifeitas 
+            com a pouca variedade ou até mesmo indisponibilidade de produtos específicos no mercado alimentício, nós da Adriana
+            Pimentel, Confeitaria Funcional, optamos por trazer aos interessados um leque de produtos, que juntos, suprem as 
+            necessidades fisiológicas e degustativas de muitos. 
+        </p>
+        <p style="color:rgb(94, 17, 29); text-align:justify; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+            As opções que desenvolvemos e disponibilizamos em nosso cardápio, estão todas inseridas ao ramo funcional da 
+            alimentação, essa, capaz de oferecer não só valor nutritivo, mas também agentes eficientes e benéficos para a 
+            redução de doenças crônicas degenerativas. Portanto, nossos pães, bolos, biscoitos, tortas e docinhos podem
+            muito bem nutrir sem deixar o sabor e a experiência incrível do prazer, de lado!
+        </p>
+        <p style="color:rgb(94, 17, 29); text-align:justify; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+            Todos os produtos ofertados caracterizam-se por sua composição:
+            <ul style="color:rgb(94, 17, 29); text-align:justify; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+                <li> Sem glúten! </li>
+                <li> Sem Lactose!</li>
+            </ul>
+        </p>
+
+        <hr>
+        <h2 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" id="queridinhos"> 
+            Os queridinhos em exposição</h2>
+            <div>
+                <span style="display: inline-block;"><img src="paoGraodeBico.jpeg" alt="Pão de Grão de Bico" height= "220" width="220;"></span> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span style="display: inline-block;"><img src="biscoitoBranco.jpeg" alt="Biscoito de Castanha de Caju" height= "220" width="220;"></span> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span style="display: inline-block;"><img src="biscoitoMarrom.jpeg" alt="Biscoito de Castanha com Cacau" height= "220" width="220;"></span> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                <span style="display: inline-block;"><img src="BoloChocolateCobertura.jpg" alt="Bolo de Chocolate com ganache" height= "220" width="220;"></span> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+                <span>Pão de Grão de Bico (300g)</span> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span>Biscoito de Castanha de Caju (100g)</span> &nbsp;&nbsp;&nbsp;&nbsp; 
+                <span>Biscoito de Castanha de Caju com Cacau (100g)</span> &nbsp;&nbsp;&nbsp;&nbsp;
+                <span>Bolo de Chocolate com ganache (800g)</span> &nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+
+        <hr>
+        <h2 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" id="produtos"> 
+            Disponíveis no cardápio</h2>
+            <h3 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> 
+                Pães</h3>
+            <ul style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+                <li> Grão de Bico com óleo de milho</li>
+                <li> Grão de Bico com óleo de coco</li>
+                <li> Grão de Bico Salgado</li>
+                <li> Grão de Bico Recheado com Frango</li>
+                <li> Uva Passa</li>
+                <li> Uva Passa 0% açúcar</li>
+                <li> Batata Doce</li>
+            </ul>
+            <h3 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+            Bolos</h3> 
+            <ul style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+                <li> Chocolate</li>
+                <li> Chocolate (vegano)</li>
+                <li> Chocolate 0% açúcar</li>
+                <li> Limão</li>
+                <li> Cenoura</li>
+                <li> Laranja</li>
+            </ul>
+            <h3 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+             Biscoitos</h3>
+             <ul style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+                <li> Castanha de Caju e cacau (sortidos)</li>
+                <li> Castanha de Caju e cacau 0% açúcar (sortidos)</li>
+            </ul>
+            <br>
+            <a target="_blank" href="PgPaesBiscoitos.html"> Pães e Biscoitos: Acesse e faça seu Pedido!</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;<a target="blank" href="PgBolos.html"> Bolos: Acesse e faça seu pedido!</a>
+
+        <hr>
+        <h3 style="color:rgb(94, 17, 29); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;" id="contato"> 
+            Meios para contato </h3> 
+        <div>
+            <span style="display: inline-block; width: 780px;"><img src="logoWhats.png" alt="logo whatsApp" height= "30" width="40;">(75) 99102-1457</span>
+        </div>
+        <br> 
+        <span style="display: inline-block; width: 780px;"><img src="logoInsta.png" alt="logo instagram" height= "18" width="20;"> &nbsp; @adriana.sousa41</span>
+                 
+    </body>
+</html>
