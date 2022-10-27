@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>AP - Confeitaria Funcional </title>
+<link rel="icon" type="image/x-icon" href="LogoAPconfeitaria.jpeg">
+</head>
+<body style="background-color:rgba(252, 241, 248, 0.986);">
+<h1 style="color:rgb(94, 17, 29); text-align: center; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Adriana Pimentel, Confeitaria Funcional!</h1>
+<p style="text-align:center"><img src="LogoAPconfeitaria.jpeg" alt="logo AP, Confeitaria Funcional" height= "220" width="220;"></p>
+<hr>
+<br>
+<h2 style="color:rgb(94, 17, 29); text-align: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Confira nosso catálogo de pães e biscoitos!</h2>
+<br>
+<br>
+<h3 style="color:rgb(94, 17, 29); text-align: left; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Pães </h3>
+<br>
+
+<div class="paes">
+<img src="paoFrango.jpeg" alt="Paozinho recheado com frango" height="230" width="230"/>
+<br>    
+<span> Pão de Grão de Bico recheado com Frango </span>
+</div>
+
+<div class="paes">
+    <img src="paoGraodeBico.jpeg" alt="Pão retangular recheado de grãos de bico" height="230" width="230" />
+    <br>  
+    <spam> Pão de Grão de Bico</spam>
+</div>
+
+<div class="paes">
+    <img src="paoUvaPassa.jpeg" alt="Mini paõ recheado de uvas passas" height="230" width="230"/>
+    <br>  
+    <spam> Pão de Uvas passas</spam>
+</div>
+
+<style>
+div.paes {
+	color:rgb(94, 17, 29);
+	display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 100px;
+}
+</style>
+<br>
+<br>
+<br>
+<hr>
+<h3 style="color:rgb(94, 17, 29); text-align: left; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Biscoitos </h3>
+<div class="bisc">
+    <img src="biscoitoBranco.jpeg" alt="biscoitos brancos" height="230" width="230"/>
+    <br>   
+    <span> Biscoitos de Castanha de Caju </span>
+    </div>
+    
+    <div class="bisc">
+        <img src="biscoitoMarrom.jpeg" alt="biscoitos marrons" height="230" width="240" />
+        <br>
+        <spam> Biscoitos de Castanha de Caju e Cacau</spam>
+    </div>
+    <style>
+        div.bisc {
+    color:rgb(94, 17, 29);
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 90px;
+}
+    </style>
